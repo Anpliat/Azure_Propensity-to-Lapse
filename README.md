@@ -1,4 +1,4 @@
-# Propensity to Laps (Microsoft Azure)
+# Propensity to Lapse (Microsoft Azure)
 
 ### Concept
 A Loyalty business partner has shared their raw customer transaction data with us with the intent to analyze and predict customer churn. The firm runs a successful reward system where the customers collect points from flights or purchases from affiliated partners (e.g. Tesco or Apple etc) which they then redeem to book flights, hotels or rent a car. Here, after conducting the data and feature engineering process we have resulted in the given dataset. The State field (Label) is the customer current lapsing status (Active or Lapsed converted in a Boolean form – Active= 0, Lapsed=1).
