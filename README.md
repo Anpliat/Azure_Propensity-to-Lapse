@@ -8,10 +8,12 @@ Build a Machine Learning Model, using the Azure Machine Learning Studio as a wor
 
 ### Dataset
 The given dataset consists of 5000 observations (customers) having the below fields (characteristics):
-* State: Lapsed status (Active= 0, Lapsed=1)
-* Sum_collect: how many times a customer collected
-* Sum_redeem: how many times a customer redeemed
-* Sum_collect_points: how many points a customer has collected in total
-* Sum_redeem_points: how many points a customer has redeemed in total
-* Years_in_the_program: years since customer’s registration to the program
-* Months_since_last_transaction: months passed since customer’s last action (collection or redemption)
+Variable | Content
+--- | ---
+State | Lapsed status (Active= 0, Lapsed=1)
+Sum_collect | How many times a customer collected
+Sum_redeem | How many times a customer redeemed
+Sum_collect_points | How many points a customer has collected in total
+Sum_redeem_points | How many points a customer has redeemed in total
+Years_in_the_program | Years since customer’s registration to the program
+Months_since_last_transaction | Months passed since customer’s last action (collection or redemption)
